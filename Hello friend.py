@@ -7,5 +7,5 @@ def full():
     
 if "__main__" == __name__:
     hungry()
-
+    full()
   
